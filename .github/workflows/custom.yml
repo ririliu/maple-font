@@ -35,7 +35,7 @@ on:
       nerd_font:
         description: 'Nerd Font icon mode: default("--nf"), mono("--nf-mono"), proportional("--nf-propo")'
         required: false
-        default: default
+        default: ''
         type: choice
         options:
           - default
