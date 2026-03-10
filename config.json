@@ -70,7 +70,7 @@
     "zero": "enable"
   },
   "nerd_font": {
-    "enable": true,
+    "enable": false,
     "version": "3.4.0",
     "mono": false,
     "propo": false,
